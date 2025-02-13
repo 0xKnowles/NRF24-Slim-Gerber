@@ -2,7 +2,7 @@
 
 +--For EDUCATIONAL PURPOSES ONLY--+
 
-Gerber files for a PCB build of a NRF24 external module for the Fl!pper 0
+Gerber files for a mini PCB for making NRF24 external modules for the Flipper Zer0. 
 
 
 
